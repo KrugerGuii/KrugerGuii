@@ -6,8 +6,9 @@
 <br><br><br>
 
 **Guilherme Kruger Andrade**<br>
-> Acredito que combinar habilidades técnicas com criatividade é o caminho para o sucesso em qualquer projeto... <br><br>
+> Acredito que combinar habilidades técnicas com criatividade é o caminho para o sucesso em qualquer projeto... 
 
+<br><br>
 
 **Experiencia**<br>
 > **UI/UX Designer | abr 2023 - ago 2023<br>**
