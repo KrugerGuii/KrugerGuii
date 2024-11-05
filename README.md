@@ -3,7 +3,8 @@
 ---
 <br>
 
-> Guilherme **Kruger** Andrade
+> **Guilherme Kruger Andrade**<br>
+> Acredito que combinar habilidades técnicas com criatividade é o caminho para o sucesso em qualquer projeto...
 
 
 
