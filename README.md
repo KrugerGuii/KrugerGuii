@@ -21,7 +21,13 @@ Acredito que combinar habilidades técnicas com criatividade é o caminho para o
 
 
 **Ferramentas e Tecnologias**<br>
-> 
+> ![figmaicon](https://github.com/user-attachments/assets/2307d52f-c2b1-47d8-901a-6cf0f7136b80) |
+> ![vsicon](https://github.com/user-attachments/assets/f77086df-9886-4948-975f-4b82fff3ad40) |
+> ![htmlicon](https://github.com/user-attachments/assets/370c27bb-450f-471b-8cb8-8ff00d175609) |
+> ![cssicon](https://github.com/user-attachments/assets/92b3def2-422f-4b38-a571-dd7a39ca7df8) |
+> ![jsicon](https://github.com/user-attachments/assets/cfeb5809-152c-4661-a169-4a515f88a1f6) |
+> ![pyicon](https://github.com/user-attachments/assets/eef7c297-1ba9-4ef6-a8ac-aedcb61ac79e) |
+
 
 
 
