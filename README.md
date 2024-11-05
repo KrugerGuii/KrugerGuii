@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/krugergui/" target="_blank">
     <img src="https://github.com/user-attachments/assets/11f2e197-74a0-4bab-a788-f7e70bcd5837" alt="card">
 </a>
-
----
-
 <br><br><br>
 
 **Guilherme Kruger Andrade**<br>
