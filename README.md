@@ -16,7 +16,12 @@ Acredito que combinar habilidades técnicas com criatividade é o caminho para o
 >
 > 
 > **Analista | out 2023 - Atualmente**<br>
-> Atuando como analista, vem desenvolvendo habilidades interpessoais e aprimorando a comunicação intuitiva para colaborar com diversas equipes de forma eficaz. O cargo exige um conhecimento sólido em SQL, aplicado para análise e manipulação de dados. Além disso, reforça competências em gerenciamento de projetos, garantindo a organização de prazos e recursos para a entrega de soluções de qualidade.
+> Atuando como analista, vem desenvolvendo habilidades interpessoais e aprimorando a comunicação intuitiva para colaborar com diversas equipes de forma eficaz. O cargo exige um conhecimento sólido em SQL, aplicado para análise e manipulação de dados. Além disso, reforça competências em gerenciamento de projetos, garantindo a organização de prazos e recursos para a entrega de soluções de qualidade. <br><br>
+
+
+
+**Ferramentas e Tecnologias**<br>
+> 
 
 
 
