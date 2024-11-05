@@ -15,7 +15,7 @@
 > A experiência como designer autônomo aprimorou competências em UX/UI, com domínio em ferramentas como Figma, Adobe XD, Photoshop e Illustrator. Desenvolveu habilidades em design visual e arquitetura da informação, sempre com foco em soluções empáticas e centradas no usuário. Utiliza psicologia do usuário para criar interfaces intuitivas que equilibram estética e funcionalidade.
 >
 > 
-> **Desginer Autônomor | fev 2022 - fev 2023**<br>
+> **Desginer Autônomo | fev 2022 - fev 2023**<br>
 > O estágio como UI/UX Designer ampliou a visão sobre o mercado, com desenvolvimento em pesquisa de usuário e testes de usabilidade. Foram aprimoradas competências em prototipagem, design de interação e compreensão de front-end (HTML, CSS, JavaScript). Ganhou experiência em gestão de projetos, alinhamento do design com metas de negócios e colaboração eficaz com equipes multidisciplinares.
 >
 > 
