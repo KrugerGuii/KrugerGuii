@@ -1,5 +1,6 @@
 
-![card aling="center"](https://github.com/user-attachments/assets/aacd5e8a-18a7-45bc-b74f-aff27bb51fe6)
+![card](https://github.com/user-attachments/assets/11f2e197-74a0-4bab-a788-f7e70bcd5837)
+
 
 
 
