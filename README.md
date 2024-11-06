@@ -28,6 +28,18 @@
 > ![jsicon](https://github.com/user-attachments/assets/cfeb5809-152c-4661-a169-4a515f88a1f6) |
 > ![pyicon](https://github.com/user-attachments/assets/eef7c297-1ba9-4ef6-a8ac-aedcb61ac79e) |
 
+<br><br>
+
+---
+
+<br><br>
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrugerGuii&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=KrugerGuii&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
 
 
 
