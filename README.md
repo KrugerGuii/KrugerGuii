@@ -1,3 +1,4 @@
+---
 
 <a href="https://www.linkedin.com/in/krugergui/" target="_blank"><img src="https://github.com/user-attachments/assets/11f2e197-74a0-4bab-a788-f7e70bcd5837" alt="card"></a>
 
@@ -29,8 +30,6 @@
 > ![figmaicon](https://github.com/user-attachments/assets/2307d52f-c2b1-47d8-901a-6cf0f7136b80) |
 > ![xdicon](https://github.com/user-attachments/assets/a22fc996-9f76-45aa-a1d6-67abaaeefa0e) |
 > ![psicon](https://github.com/user-attachments/assets/6863c4c5-2341-4050-b182-067c7b696717) 
-
-<br><br>
 
 ---
 
